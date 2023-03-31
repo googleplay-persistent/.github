@@ -10,7 +10,7 @@ All glory goes to its actual developer. We are just librarians.
 
 # Usage
 
-We assume that you have a directory in which you clone both the `googleplay` and the `rosso` repository.
+We assume that you have a directory in which you clone both the [googleplay](https://github.com/googleplay-persistent/googleplay) and the [rosso](https://github.com/googleplay-persistent/rosso) repository.
 
 ```
 googleplay-persistent/
