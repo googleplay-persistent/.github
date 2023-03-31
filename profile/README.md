@@ -1,7 +1,8 @@
 # Purpose
 
-We depend on the googleplay go tool for our research [see](https://github.com/the-ok-is-not-enough) however, the tool and its dependency do change repository paths frequently.
-Consequently it becomes hard to impossible to onboard people on the developed tooling.
+We depend on the googleplay Go tool for our [research](https://github.com/the-ok-is-not-enough).
+However, the tool and its dependency do change repository paths frequently.
+Consequently it becomes hard to impossible onboarding people on the developed tooling and its dependencies.
 This org is supposed to mitigate this problem and provide a persistent and working snapshot to build googleplay.
 
 All glory goes to its actual developer. We are just librarians.
