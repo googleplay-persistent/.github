@@ -1,5 +1,3 @@
-# .github
-
 # Purpose
 
 We depend on the googleplay go tool for our research [see](https://github.com/the-ok-is-not-enough) however, the tool and its dependency do change repository paths frequently.
