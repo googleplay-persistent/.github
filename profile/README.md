@@ -13,8 +13,8 @@ We assume that you have a directory in which you clone both the `googleplay` and
 
 ```
 googleplay-persistent/
-                      googleplay/
-                      rosso/
++---------------------googleplay/
++---------------------rosso/
 ```
 
 1. go into `googleplay-persistent/googleplay/cmd/googleplay/` and run `go build`
